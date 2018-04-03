@@ -12,6 +12,7 @@
 		0D3D0F4D20738F6000FACAEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3D0F4B20738F6000FACAEE /* Main.storyboard */; };
 		0D3D0F4F20738F6000FACAEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D3D0F4E20738F6000FACAEE /* Assets.xcassets */; };
 		0D3D0F5220738F6000FACAEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3D0F5020738F6000FACAEE /* LaunchScreen.storyboard */; };
+		0D3D0F5A2073906600FACAEE /* apple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D3D0F592073906600FACAEE /* apple.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0D3D0F4E20738F6000FACAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D3D0F5120738F6000FACAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0D3D0F5320738F6000FACAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D3D0F592073906600FACAEE /* apple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0D3D0F4720738F6000FACAEE /* AppDelegate.swift */,
 				0D3D0F4920738F6000FACAEE /* ViewController.swift */,
+				0D3D0F592073906600FACAEE /* apple.jpg */,
 				0D3D0F4B20738F6000FACAEE /* Main.storyboard */,
 				0D3D0F4E20738F6000FACAEE /* Assets.xcassets */,
 				0D3D0F5020738F6000FACAEE /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				0D3D0F5220738F6000FACAEE /* LaunchScreen.storyboard in Resources */,
 				0D3D0F4F20738F6000FACAEE /* Assets.xcassets in Resources */,
+				0D3D0F5A2073906600FACAEE /* apple.jpg in Resources */,
 				0D3D0F4D20738F6000FACAEE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
